@@ -7,6 +7,10 @@ Abstract: In industry, accurate remaining useful life (RUL) prediction is critic
 
 ## Usage
 
+* Conda Enviroment
+
+    `conda env create -f environment.yaml`
+
 * For Pretraining
 
     `python pretrain_phm.py`

@@ -14,3 +14,5 @@ Abstract: In industry, accurate remaining useful life (RUL) prediction is critic
 * For Cross-domain Training
 
     `python main.py`
+
+The processed data can can be downloaded from this [LINK]().

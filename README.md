@@ -22,7 +22,7 @@ Abstract: In industry, accurate remaining useful life (RUL) prediction is critic
 The processed data can be downloaded from this [LINK](https://drive.google.com/drive/folders/12vxOBouxJlrdfDTa0jCCTb5MQ6ccZ-2O?usp=sharing).
 
 ## Citation
-'''
+```
 @article{wu2022weighted,
   title={Weighted adversarial domain adaptation for machine remaining useful life prediction},
   author={Wu, Kangkai and Li, Jingjing and Zuo, Lin and Lu, Ke and Shen, Heng Tao},
@@ -32,4 +32,4 @@ The processed data can be downloaded from this [LINK](https://drive.google.com/d
   year={2022},
   publisher={IEEE}
 }
-'''
+```
